@@ -14,5 +14,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiMh&langs_count=3&hide=php" />
 </a>
----
-[![](https://visitcount.itsvg.in/api?id=SaeedRahimisp&icon=9&color=0)](https://github.com/SaeedRahimisp)
